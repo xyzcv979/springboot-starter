@@ -12,19 +12,18 @@
 Simple Crud App to learn Spring Boot, web services, REST APIs, MySQL, Postman
 
 GET
-http://localhost:8080/users
-
-![alt text]()
+![alt text](https://github.com/xyzcv979/springboot-starter/tree/main/images/get_request.png)
 
 POST
-http://localhost:8080/save
+![alt text](https://github.com/xyzcv979/springboot-starter/tree/main/images/post_request.png)
 
 PUT
-http://localhost:8080/update/{uid}
+![alt text](https://github.com/xyzcv979/springboot-starter/tree/main/images/put_request.png)
 
 DELETE
-http://localhost:8080/delete/{uid}
+![alt text](https://github.com/xyzcv979/springboot-starter/tree/main/images/delete_request.png)
 
 
-
+### Database
+![alt text](https://github.com/xyzcv979/springboot-starter/tree/main/images/mysql_workbench_db_example.pnd)
 
