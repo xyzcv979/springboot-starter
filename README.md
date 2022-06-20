@@ -21,7 +21,7 @@ PUT
 ![alt text](https://github.com/xyzcv979/springboot-starter/blob/main/images/put_request.png)
 
 DELETE
-![alt text](https://raw.githubusercontent.com/xyzcv979/springboot-starter/blob/main/images/delete_request.png)
+![alt text](https://github.com/xyzcv979/springboot-starter/blob/main/images/delete_request.png)
 
 
 ### Database
